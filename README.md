@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Vats 😊💻</h1>
-<h3 align="center">A passionate SAP Abap developer from India</h3>
+<h2 align="left">Hi, I'm Vats 😊💻</h2>
+<h3 align="left">A passionate SAP Abap developer from India</h3>
 
 - 👨‍🎓  I'm an undergraduated student from Marwadi University
 
