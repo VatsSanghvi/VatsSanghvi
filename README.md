@@ -7,8 +7,6 @@
 
 - ⚡ Fun fact **I like to play video games 🎮**
 
-- ☕ Coffee Chat: [https://www.buymeacoffee.com/vatssanghvi](https://www.buymeacoffee.com/vatssanghvi)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vatssanghvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatssanghvi" height="30" width="40" /></a>
