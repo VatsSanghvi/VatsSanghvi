@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Vats 😊💻</h1>
 <h3 align="center">A passionate SAP Abap developer from India</h3>
 
-- 🔭 I’m currently working on **Ticket Management System**
+- 👨‍🎓  I'm an undergraduated student from Marwadi University
 
-- 🌱 I’m currently learning **ABAP,PHOTOSHOP,PERMIERE PRO,AFTER EFFECTS, PYTHON, DJANGO**
-
-- 👨‍💻 All of my projects are available at [https://github.com/VatsSanghvi?tab=repositories](https://github.com/VatsSanghvi?tab=repositories)
-
-- 📫 How to reach me **vatssanghvi07@gmail.com**
+- 📫 Work Email: **vatssanghvi07@gmail.com**
 
 - ⚡ Fun fact **I like to play video games 🎮**
+
+-☕ Coffee Chat: [https://www.buymeacoffee.com/vatssanghvi](https://www.buymeacoffee.com/vatssanghvi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
