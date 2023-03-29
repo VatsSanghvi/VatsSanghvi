@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Vats 😊💻</h2>
+<h2 align="left" font-size:30px>Hi, I'm Vats 😊💻</h2>
 <h3 align="left">A passionate SAP Abap developer from India</h3>
 
 - 👨‍🎓  I'm an undergraduated student from Marwadi University
