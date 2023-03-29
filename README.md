@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vats</h1>
-<h3 align="center">A passionate sap abap developer from India</h3>
+<h3 align="center">A passionate SAP Abap developer from India</h3>
 
 - 🔭 I’m currently working on **Ticket Management System**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vatssanghvi07@gmail.com**
 
-- ⚡ Fun fact **I like to play video games**
+- ⚡ Fun fact **I like to play video games 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
