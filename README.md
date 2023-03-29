@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I like to play video games 🎮**
 
--☕ Coffee Chat: [https://www.buymeacoffee.com/vatssanghvi](https://www.buymeacoffee.com/vatssanghvi)
+- ☕ Coffee Chat: [https://www.buymeacoffee.com/vatssanghvi](https://www.buymeacoffee.com/vatssanghvi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
