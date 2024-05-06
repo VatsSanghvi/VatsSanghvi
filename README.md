@@ -4,6 +4,7 @@
 <!--
 - 👨‍🎓  I completed my Bachelor of Technology in Information Technology from <a href="https://www.marwadiuniversity.ac.in/">Marwadi University</a>.
 -->
+
 - 📫 Work Email: vatssanghvi07@gmail.com
 
 - ⚡ Fun fact **I like to play video games 🎮**
