@@ -3,7 +3,7 @@
 - 👨‍🎓  I  have pursued a Postgraduate Diploma in <a href="https://www.conestogac.on.ca/fulltime/business-analytics">Business Analytics</a> from <a href="https://www.conestogac.on.ca/">Conestoga College</a>.
 <!--
 - 👨‍🎓  I completed my Bachelor of Technology in Information Technology from <a href="https://www.marwadiuniversity.ac.in/">Marwadi University</a>.
-
+-->
 - 📫 Work Email: vatssanghvi07@gmail.com
 
 - ⚡ Fun fact **I like to play video games 🎮**
