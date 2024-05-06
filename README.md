@@ -1,7 +1,9 @@
 <h4 align="left"><small>Hi, I'm Vats 😊💻</small></h4>
 
-- 👨‍🎓  I'm an undergraduated student from Marwadi University
+- 👨‍🎓  I  have pursued a Postgraduate Diploma in <a href="https://www.conestogac.on.ca/fulltime/business-analytics">Business Analytics</a> from <a href="https://www.conestogac.on.ca/">Conestoga College</a>.
 
+- 👨‍🎓  I completed my Bachelor of Technology in Information Technology from <a href="https://www.marwadiuniversity.ac.in/">Marwadi University</a>.
+  
 - 📫 Work Email: **vatssanghvi07@gmail.com**
 
 - ⚡ Fun fact **I like to play video games 🎮**
@@ -19,5 +21,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vatssanghvi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/vatssanghvi" /></a></p><br><br>
-
-
